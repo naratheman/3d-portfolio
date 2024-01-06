@@ -246,6 +246,27 @@ const projects = [
     image: tripguide,
     source_code_link: "https://food-truck-finder-psi.vercel.app",
   },
+  {
+    name: "More Projects",
+    description:
+      "Click on the link below, it will send you to another website which presents you other projects that I worked in the past.",
+    tags: [
+      {
+        name: "Follow",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "This",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Link",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: git,
+    source_code_link: "https://naradaudewo-r04350yv0-naratheman.vercel.app",
+  },
 ];
 
 export { services, technologies, experiences, testimonials, projects };
