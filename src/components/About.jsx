@@ -44,8 +44,7 @@ const About = () => {
         variants={fadeIn("","",0.1,1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-      Hey there! I'm a tech enthusiast with a mix of skills—Python, React, React Native, Swift, TypeScript, Flutter, Dart, SQL, you name it. I love diving into different roles and taking charge of features, making sure they're not just lines of code but actually make a difference.
-      My thing is wearing many hats and thriving in dynamic environments. I've got a knack for owning features and driving them to success. What really gets me going is creating software that brings a positive change to the world.
+      Hey there! I'm a tech enthusiast with a mix of skills—Python, React, React Native, Swift, TypeScript, Flutter, Dart, SQL, you name it. I love diving into different roles and taking charge of features, making sure they're not just lines of code but actually make a difference. I've got a knack for owning features and driving them to success. What really gets me going is creating software that brings a positive change to the world.
       Right now, I'm on the lookout for software development gigs. I'm all about roles that let me use my skills in a collaborative and innovative setup. If it's a place where I can make a meaningful impact and keep learning, count me in! Let's make some cool stuff together. 
       </motion.p>
 
